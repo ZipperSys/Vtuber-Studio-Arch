@@ -49,7 +49,10 @@ this command will then start a Python virtual environment and we will need this 
 $ source env/bin/activate
 ```
 
+After starting the env, run this command:
 
+```
+$ pip install onnxruntime opencv-python pillow numpy
+```
 
-
-
+This will 
