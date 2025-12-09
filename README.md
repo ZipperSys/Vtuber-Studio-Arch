@@ -4,9 +4,9 @@
 ## Cloning the OpenSeeFace Github Repo
 first clone the OpenSeeFace repo
 
-...
+```
 git clone https://github.com/emilianavt/OpenSeeFace
-...
+```
 
 ## Install Python Dependencies
 
