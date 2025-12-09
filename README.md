@@ -1,5 +1,5 @@
 # Running VTS on Arch Linux for Vtuber Studio
-
+A little note that the $ is used to indicate the terminal. The distro used is Arch Linux but you can follow this guide with any distro just replace pacman with your provided package manager.
 
 ## Cloning the OpenSeeFace Github Repo
 first clone the OpenSeeFace repo:
@@ -35,13 +35,13 @@ $ cd OpenSeeFace/
 then run this command
 
 ```
-virtualenv -p python env
+$ virtualenv -p python env
 ```
 
 this command will then start a Python virtual environment and we will need this to use OpenSeeFace correctly. To start the env run this command :
 
 ```
-source env/bin/activate
+$ source env/bin/activate
 ```
 
 
