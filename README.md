@@ -1,6 +1,11 @@
 # Running VTS on Arch Linux for Vtuber Studio
 A little note that the $ is used to indicate the terminal. The distro used is Arch Linux but you can follow this guide with any distro just replace pacman with your provided package manager.
 
+## Requirements
+- OpenSeeFace
+- Vtuber Studio
+- Terminal
+
 ## Cloning the OpenSeeFace Github Repo
 first clone the OpenSeeFace repo:
 
